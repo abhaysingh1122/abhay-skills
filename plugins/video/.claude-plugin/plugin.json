@@ -1,0 +1,6 @@
+{
+  "name": "video",
+  "description": "Video editing with FFmpeg and Remotion - stitching, transitions, captions, teasers",
+  "version": "1.0.0",
+  "skills": "./skills/video/SKILL.md"
+}
