@@ -5,5 +5,7 @@
   "author": {
     "name": "Abhay Singh Nagarkoti"
   },
-  "skills": "./skills/seo-audit/SKILL.md"
+  "skills": [
+    "./skills/seo-audit/SKILL.md"
+  ]
 }
