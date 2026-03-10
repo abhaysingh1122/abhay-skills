@@ -1,7 +1,11 @@
 {
   "name": "n8n-prd-generator",
-  "description": "Convert discovery call transcripts into concise n8n Automation Blueprints with interactive question flow",
+  "description": "Convert discovery call transcripts into concise n8n Automation Blueprints",
   "version": "1.0.0",
+  "author": {
+    "name": "Abhay Singh Nagarkoti",
+    "email": "abhaysinghnagarkoti11@gmail.com"
+  },
   "skills": [
     "./skills/n8n-prd-generator/SKILL.md"
   ]
