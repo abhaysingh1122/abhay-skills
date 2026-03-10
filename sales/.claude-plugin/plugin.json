@@ -6,6 +6,11 @@
     "name": "Abhay Singh Nagarkoti"
   },
   "skills": [
-    "./skills/sales/SKILL.md"
+    "./skills/case-study/SKILL.md",
+    "./skills/email-personalization/SKILL.md",
+    "./skills/email-sequence/SKILL.md",
+    "./skills/lead-intelligence/SKILL.md",
+    "./skills/lead-qualification/SKILL.md",
+    "./skills/lead-research-assistant/SKILL.md"
   ]
 }
