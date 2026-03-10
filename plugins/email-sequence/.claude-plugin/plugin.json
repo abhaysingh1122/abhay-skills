@@ -19,5 +19,7 @@
     "nurture",
     "lifecycle"
   ],
-  "skills": "./skills/email-sequence/SKILL.md"
+  "skills": [
+    "./skills/email-sequence/SKILL.md"
+  ]
 }
