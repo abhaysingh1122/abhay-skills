@@ -5,5 +5,7 @@
   "author": {
     "name": "Abhay Singh Nagarkoti"
   },
-  "skills": "./skills/excalidraw/SKILL.md"
+  "skills": [
+    "./skills/excalidraw/SKILL.md"
+  ]
 }
