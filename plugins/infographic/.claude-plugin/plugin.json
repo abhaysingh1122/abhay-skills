@@ -3,7 +3,8 @@
   "description": "Generate professional LinkedIn-style infographics using Nano Banana (Gemini AI image generation). Creates clean, memorable visuals with ONE visual metaphor, flat colors, and hand-drawn touches. Supports brand guidelines persistence, series creation, 5-10 visualization suggestions, and iterative refinement. Ideal for social media, presentations, and thought leadership content.",
   "version": "1.1.0",
   "author": {
-    "name": "Abhay Singh Nagarkoti"
+    "name": "Abhay Singh Nagarkoti",
+    "email": "abhaysinghnagarkoti11@gmail.com"
   },
   "skills": [
     "./skills/infographic/SKILL.md"
