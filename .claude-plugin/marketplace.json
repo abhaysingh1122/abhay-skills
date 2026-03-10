@@ -10,35 +10,35 @@
   "plugins": [
     {
       "name": "n8n",
-      "source": "./plugins/n8n",
-      "description": "Build, test, and deploy n8n workflows via REST API with incremental testing",
-      "version": "1.0.0",
-      "author": {
-        "name": "Abhay Singh Nagarkoti"
-      },
-      "keywords": [
-        "n8n",
-        "workflow",
-        "automation",
-        "api"
-      ]
+      "source": "./plugins/n8n"
     },
     {
       "name": "n8n-prd-generator",
-      "source": "./plugins/n8n-prd-generator",
-      "description": "Convert discovery call transcripts into concise n8n Automation Blueprints with interactive question flow",
-      "version": "1.0.0",
-      "author": {
-        "name": "Abhay Singh Nagarkoti"
-      },
-      "keywords": [
-        "n8n",
-        "blueprint",
-        "prd",
-        "discovery",
-        "automation",
-        "scoping"
-      ]
+      "source": "./plugins/n8n-prd-generator"
+    },
+    {
+      "name": "email-sequence",
+      "source": "./plugins/email-sequence"
+    },
+    {
+      "name": "excalidraw",
+      "source": "./plugins/excalidraw"
+    },
+    {
+      "name": "infographic",
+      "source": "./plugins/infographic"
+    },
+    {
+      "name": "seo-audit",
+      "source": "./plugins/seo/seo-audit"
+    },
+    {
+      "name": "video",
+      "source": "./plugins/video"
+    },
+    {
+      "name": "sales",
+      "source": "./sales"
     }
   ]
 }
