@@ -1,0 +1,44 @@
+{
+  "name": "abhay-skills",
+  "owner": {
+    "name": "Abhay Singh Nagarkoti",
+    "email": "abhaysinghnagarkoti11@gmail.com"
+  },
+  "metadata": {
+    "description": "Abhay Singh Nagarkoti expert skills marketplace - n8n automation, video editing, and more"
+  },
+  "plugins": [
+    {
+      "name": "n8n",
+      "source": "./plugins/n8n",
+      "description": "Build, test, and deploy n8n workflows via REST API with incremental testing",
+      "version": "1.0.0",
+      "author": {
+        "name": "Abhay Singh Nagarkoti"
+      },
+      "keywords": [
+        "n8n",
+        "workflow",
+        "automation",
+        "api"
+      ]
+    },
+    {
+      "name": "n8n-prd-generator",
+      "source": "./plugins/n8n-prd-generator",
+      "description": "Convert discovery call transcripts into concise n8n Automation Blueprints with interactive question flow",
+      "version": "1.0.0",
+      "author": {
+        "name": "Abhay Singh Nagarkoti"
+      },
+      "keywords": [
+        "n8n",
+        "blueprint",
+        "prd",
+        "discovery",
+        "automation",
+        "scoping"
+      ]
+    }
+  ]
+}
