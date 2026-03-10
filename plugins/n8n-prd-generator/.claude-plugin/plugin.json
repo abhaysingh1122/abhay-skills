@@ -2,5 +2,7 @@
   "name": "n8n-prd-generator",
   "description": "Convert discovery call transcripts into concise n8n Automation Blueprints with interactive question flow",
   "version": "1.0.0",
-  "skills": "./skills/n8n-prd-generator/SKILL.md"
+  "skills": [
+    "./skills/n8n-prd-generator/SKILL.md"
+  ]
 }
