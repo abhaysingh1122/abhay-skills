@@ -1,0 +1,23 @@
+{
+  "name": "email-sequence",
+  "description": "Expert email marketing and automation skill for creating email sequences, drip campaigns, nurture sequences, onboarding flows, and lifecycle email programs.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Abhay Singh Nagarkoti"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "marketing",
+    "automation",
+    "drip-campaign",
+    "onboarding",
+    "nurture",
+    "lifecycle"
+  ],
+  "skills": "./skills/email-sequence/SKILL.md"
+}
