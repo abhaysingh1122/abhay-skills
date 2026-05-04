@@ -1,0 +1,12 @@
+{
+  "name": "n8n-expert",
+  "description": "Battle-tested n8n building patterns — single-webhook + Switch routing, AI agent placement, Airtable Get vs Search shapes, API push discipline, common bug fixes. Encodes a senior automation engineer's style for designing, building, debugging, and shipping n8n workflows.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Abhay Singh Nagarkoti",
+    "email": "abhaysinghnagarkoti11@gmail.com"
+  },
+  "skills": [
+    "./skills/n8n-expert/SKILL.md"
+  ]
+}
