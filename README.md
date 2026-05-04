@@ -26,6 +26,9 @@ Build, test, and deploy n8n workflows via REST API with incremental testing.
 ### 📋 n8n PRD Generator
 Convert discovery call transcripts into concise n8n Automation Blueprints with an interactive question flow.
 
+### 🧠 n8n Expert
+A senior automation engineer's pattern catalog for designing, building, debugging, and shipping production n8n workflows. Encodes the seven commandments (single-webhook + Switch routing, AI agent placement, API push discipline, static-data isolation, directive LLM prompts, Airtable shape rules, loud-mutation error policy) plus dedicated references for architecture, node JSON shapes, code patterns, AI agents, Airtable, HTTP/external integrations, error handling, and a debugging catalog.
+
 ### 📧 Email Sequence
 Expert email marketing and automation skill for creating email sequences, drip campaigns, nurture sequences, onboarding flows, and lifecycle email programs.
 
