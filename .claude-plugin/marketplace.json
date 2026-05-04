@@ -17,6 +17,10 @@
       "source": "./plugins/n8n-prd-generator"
     },
     {
+      "name": "n8n-expert",
+      "source": "./plugins/n8n-expert"
+    },
+    {
       "name": "email-sequence",
       "source": "./plugins/email-sequence"
     },
